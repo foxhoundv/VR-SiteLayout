@@ -1,5 +1,4 @@
 # VRSiteLayout
-==============
 
 Simple Description
 ==================
